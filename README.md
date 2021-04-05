@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on Jackpot
-- 🌱 I’m currently learning Next.js
+<a href="https://www.linkedin.com/in/arunsridher/">
+  <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+
+<br />
 
 
 ## &#x1f4c8; GitHub Stats
