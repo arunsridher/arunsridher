@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/arunsridher/">
   <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+<a href="https://twitter.com/arunsridher">
+  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
