@@ -26,3 +26,7 @@
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
+ 
+ <br />
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsridher&show_icons=true&count_private=true&theme=radical)
