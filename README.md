@@ -29,4 +29,4 @@
  
  <br />
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsridher&show_icons=true&count_private=true&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
