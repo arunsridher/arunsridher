@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
 
-My name is Arunsridher and I"m a Software Engineer who is passionate about building apps, teaching and learning new technologies 
+My name is Arunsridher and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
 ### 🛠 &nbsp;Tech Stack
 
