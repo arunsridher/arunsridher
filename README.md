@@ -24,9 +24,10 @@ My name is Arunsridher and I"m a Software Engineer who is passionate about build
 <br />
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=CodeIgniter)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=C#&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=FFA518)&nbsp;
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity3D&logoColor=FFA518)&nbsp;
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
