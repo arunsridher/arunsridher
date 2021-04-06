@@ -28,6 +28,7 @@ My name is Arunsridher and I"m a Software Engineer who is passionate about build
 <br />
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Unity3D](https://img.shields.io/badge/-Unity3D-05122A?style=flat&logo=Unity3D&logoColor=FFA518)&nbsp;
+![C#](https://img.shields.io/badge/c%23%20-05122A?style=flat&logo=c-sharp&logoColor=05122A)
 <br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
